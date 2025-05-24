@@ -1,5 +1,3 @@
-# Weather-Forecasting-Web-App
-
 # Weather Forecasting Web App using OpenWeatherMap API
 
 ## About This Project
