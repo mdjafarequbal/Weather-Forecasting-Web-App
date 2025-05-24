@@ -15,7 +15,7 @@ This is a simple and interactive weather forecasting web app that provides real-
 ![Home](Home.png)
 
 ### Result Page
-![Result(Result.png)
+![Result](Result.png)
 
 
 ## Features
